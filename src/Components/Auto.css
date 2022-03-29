@@ -1,0 +1,5 @@
+.autoDiv{
+    width: 200px;
+    max-height: 250px;
+    overflow-y: scroll;
+}
